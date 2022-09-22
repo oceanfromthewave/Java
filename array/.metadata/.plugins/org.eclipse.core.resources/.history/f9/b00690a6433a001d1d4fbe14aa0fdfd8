@@ -1,0 +1,21 @@
+package exam01;
+
+public class Fibonacci {
+	public static void main(String[] args) {
+		 int N = Integer.parseInt(args[0]);
+		int a = 1;
+		
+		System.out.println(N);
+		System.out.println(a);
+	
+		
+		
+		
+		}
+		
+		
+		
+		
+		
+		
+	}

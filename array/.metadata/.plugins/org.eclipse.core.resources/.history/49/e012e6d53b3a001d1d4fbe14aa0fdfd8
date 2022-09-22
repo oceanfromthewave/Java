@@ -1,0 +1,15 @@
+package exam01;
+
+public class Sum {
+	public static void main(String[] args) {
+		int i=0;
+		final int N = 0;
+
+        for(int i=1; i<N; i++) {
+            i = i;
+        }
+
+        System.out.println(N);
+    }
+}
+

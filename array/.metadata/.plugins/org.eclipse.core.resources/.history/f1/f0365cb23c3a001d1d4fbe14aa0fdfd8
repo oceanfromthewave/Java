@@ -1,0 +1,13 @@
+package exam01;
+
+public class sum {
+	public static void main(String[] args) {
+		
+		int a= 0;
+		final int N = Integer.parseInt(args[0]);
+		
+		for(int a = 0; a <N; a++) {
+			System.out.println(a+N);
+		}
+	}
+}

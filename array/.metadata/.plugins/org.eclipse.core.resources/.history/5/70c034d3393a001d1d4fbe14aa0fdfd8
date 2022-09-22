@@ -1,0 +1,11 @@
+package exam01;
+
+public class test {
+	public static void main(String[] args) {
+		int N = 0;
+		int i =0;
+		for( i = 0; i<N; i++);
+		System.out.println(N);
+		
+	}
+}

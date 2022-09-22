@@ -1,0 +1,17 @@
+package exam01;
+
+public class test {
+	public static void main(String[] args) {
+	final int N= Integer.parseInt(args[0]);
+	
+	for (int i = 0; i<N; i++) {
+	for (N+=i; i<N; i++);
+	
+	char[] sum;
+	System.out.println(sum);
+	
+	}
+	System.out.println();
+	
+	}
+}
